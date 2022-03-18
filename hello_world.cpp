@@ -3,7 +3,7 @@
 
 int main()
 	string name;
-	std::cin >> name;
-	std::cout << "Hello world from " << name << "!";
+	std::cin >> name; //получить имя пользователя 
+	std::cout << "Hello world from " << name << "!"; //вывод
 	return 0;
 }
